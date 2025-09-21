@@ -3,9 +3,7 @@
 A modern, responsive portfolio website built with Bootstrap 5, SCSS, and interactive JavaScript components. This project showcases advanced web development techniques with smooth animations, progress bars, and a clean professional design.
 
 ## 🌟 Live Demo
-
-View the live website: [https://saadabdelghaffar.github.io/bootstrap-advanced-portfolio/](https://saadabdelghaffar.github.io/bootstrap-advanced-portfolio/)
-
+**[View Live Demo](https://saadabdelghaffar.github.io/bootstrap-advanced-portfolio/)**
 ## ✨ Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
